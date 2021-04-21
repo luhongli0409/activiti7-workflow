@@ -1,0 +1,22 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /
+    session:
+      timeout: 9000
+spring:
+  datasource:
+    username: escrow_workflow
+    password: KXCtv_c8Scl8Nb1
+    url: jdbc:mysql://mis-my.test1.db.ehomepay.local:3306/escrow_workflow?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2b8&useCursorFetch=true&allowMultiQueries=true&connectTimeout=2000&socketTimeout=300000&useSSL=false&nullCatalogMeansCurrent=true
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    #日志的相关配置
+logging:
+  level:
+    root: info
+#日志的相关配置
+spring.activiti.history-level: full
+spring.activiti.db-history-used: true
+# spring-activiti
+# 自动部署验证设置:true-开启（默认）、false-关闭
+spring.activiti.check-process-definitions: false
