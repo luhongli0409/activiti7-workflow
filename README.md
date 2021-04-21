@@ -20,7 +20,7 @@ Acticiti7工作流引擎
  * [下载GIT](https://git-scm.com/downloads)并安装
  * 新建本地文件夹
  * 选中文件夹右键，输入命令，文件夹变成Git仓库 `git init`
- * 复制git项目地址 `git clone https://github.com/wwdui/activiti7-workflow.git`
+ * 复制git项目地址 `git clone https://github.com/luhongli0409/activiti7-workflow.git`
  * 输入github账号密码即可下载
 ![Image text](./src/main/resources/static/git_show/0003.png)
 
@@ -30,7 +30,7 @@ Acticiti7工作流引擎
 
  * [下载GIT](https://git-scm.com/downloads)并安装
  * 打开IDEA，【File】->【Settings】->【Version Control】->【Path to Git executable】设置为安装后的git.exe路径
- * 创建IDEA项目，【File】->【New】->【Project from Version Control】->【Git】设置URL`https://github.com/wwdui/activiti7-workflow.git`
+ * 创建IDEA项目，【File】->【New】->【Project from Version Control】->【Git】设置URL`https://github.com/luhongli0409/activiti7-workflow.git`
  ![Image text](./src/main/resources/static/git_show/0004.png)
 
 
