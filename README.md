@@ -1,7 +1,6 @@
 Acticiti7工作流引擎
 ===============
 # 项目介绍
-[查看本课程配套视频教程请，点这里](https://coding.imooc.com/class/454.html)
 
 基于[Acticiti7](https://github.com/Activiti/Activiti)的Web工作流引擎，完整开源。
 
